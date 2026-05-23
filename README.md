@@ -57,9 +57,9 @@ The project focuses on applying Artificial Intelligence and Machine Learning tec
 - NumPy
 - Scikit-learn
 - Matplotlib
-- Seaborn
 
 ### Visualization & Tools
+- Power BI
 - Looker Studio
 - Jupyter Notebook
 - Google Colab
